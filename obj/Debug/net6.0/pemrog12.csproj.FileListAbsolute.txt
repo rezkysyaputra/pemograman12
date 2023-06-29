@@ -1,0 +1,15 @@
+/Users/rezky/Projects/pemrog12/bin/Debug/net6.0/pemrog12
+/Users/rezky/Projects/pemrog12/bin/Debug/net6.0/pemrog12.deps.json
+/Users/rezky/Projects/pemrog12/bin/Debug/net6.0/pemrog12.runtimeconfig.json
+/Users/rezky/Projects/pemrog12/bin/Debug/net6.0/pemrog12.dll
+/Users/rezky/Projects/pemrog12/bin/Debug/net6.0/pemrog12.pdb
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/pemrog12.csproj.AssemblyReference.cache
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/pemrog12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/pemrog12.AssemblyInfoInputs.cache
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/pemrog12.AssemblyInfo.cs
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/pemrog12.csproj.CoreCompileInputs.cache
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/pemrog12.dll
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/refint/pemrog12.dll
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/pemrog12.pdb
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/pemrog12.genruntimeconfig.cache
+/Users/rezky/Projects/pemrog12/obj/Debug/net6.0/ref/pemrog12.dll
